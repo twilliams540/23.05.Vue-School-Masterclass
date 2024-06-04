@@ -2,8 +2,8 @@
 
 <template>
   <div>
-    <h1>Home Page</h1>
-    <router-link to="/projects">Projects</router-link>
+    <h1>Projects Page</h1>
+    <router-link to="/">Home</router-link>
   </div>
 </template>
 
